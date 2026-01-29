@@ -1,2 +1,2 @@
 # AndroidStudio
-This is my assignment in 102
+This is my assignment in IPT 102
